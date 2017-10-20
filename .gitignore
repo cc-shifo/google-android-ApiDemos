@@ -1,0 +1,10 @@
+/my-android-apidemos/app/build
+/my-android-apidemos/*.iml
+/my-android-apidemos/.gradle
+/my-android-apidemos/local.properties
+/my-android-apidemos/.idea/workspace.xml
+/my-android-apidemos/.idea/libraries
+/my-android-apidemos/.DS_Store
+/my-android-apidemos/build
+/my-android-apidemos/captures
+/my-android-apidemos/.externalNativeBuild
